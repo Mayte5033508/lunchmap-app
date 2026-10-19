@@ -9,5 +9,5 @@ export default defineConfig({
       'Cross-Origin-Opener-Policy': 'same-origin-allow-popups',
     },
   },
-  base: 'https://github.com/Mayte5033508/lunchmap-app.git', // <-- Coloca aquí el nombre exacto de tu repositorio de GitHub entre barras
+  base: '/lunchmap-app/', // <-- Solo el nombre del repositorio con barras al inicio y al final
 });
